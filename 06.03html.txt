@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Marhey:wght@300..700&display=swap" rel="stylesheet">   
+</head>
+
+<body>   
+<center> 
+    <div class="image">
+        <h1>İlanlar (Lat.Serpentes)</h1>
+        <p><span class="a">-Sürünənlər Sinfinin Pulcuqlular <br> Dəstəsinə Aid Yarımdəstə.</span></p>
+        <p class="b">İlanlar elastik çənə quruluçuna sahibdir. Bununla da böyük canlıları uda bilirlər. İlanların çoxu zəhərsizdir. Zəhərsiz ilan növləri ovlarına dolanaraq onları boğur. İlanların zəhərli növləri isə zəhərdən ovlanmaq, yaxud özlərini qorumaq məqsədi ilə istifadə edirlər. İlanlar həşərat,<br> qurbağa, quş, balıq, kərtənkələ, siçan, yumurta və s. ilə qadalanır. İlanları öyrənən elm <br> <span id="d">serpantologiya</span> adlanır.</p>          
+    <button class="button">Daxil ol</button>
+    </div>
+</center>
+
+    <div class="images">
+    <h1>Dəri</h1>
+    <p>İlan dərisi pulcuqlarla örtülüdür hamar və quru quruluşa malikdir. İlanların qarın və bel pulcuqlarının quruluşu fərqlidir. Dəri rəngləri çox müxtəlifdir. Bəziləri bir rəngə bəziləri isə 3-4 rəngə sahibdir. Rəngli ilanlar əsasən zəhərlidir. Ancaq zəhərli olmayan rəngli ilanlar da var. Rəngli dəri təhlükəni bildirir və düşmənləri qorxutmaq üçün istifadə olunur amma bu o demək deyil ki birrəngli ilanların dəriləri qorunmaq üçün əlverişlidir. Birrəngli ilanların rəngi daha çox bozumtul qəhvəyi və qara rəngli olur ki bu rənglər də torpaqda qumda daşda gizlənmək üçün (kamflya) ideal rənglərdir</p>
+    <p><span id="e">Dəri dəyişdirmə</span></p>
+    <p>Bir çox canlı kimi ilanlar da dəri dəyişdirir. Köhnə dəri ağız tərəfdən cırır ilan daş ağac kimi obyektlərə sürtünərək dərisini çıxardır. Bu prosesin bir neçə funksiyası var. İlk növbədə ilan köhnə dəridən azad olur həm də parazitlərdən təmizlənir.</p>
+    <img class="f" src="https://icdn.ensonhaber.com/crop/1200x675/resimler/diger/2018/09/16/yilan_4124.jpg" alt="Yılan Resmi">
+    <h1>Zəhər</h1>
+    <p>Zəhər başın arxasındakı zəhər vəzilərində toplanır və dişlər vasitəsilə ova yaxud düşmını yeridilir. Tüpürən kobra kimi bir neçə ilan təhlükə hiss etdikdə düşmənin gözünə zəhər tüpürür. Bəzi heyvanlarda ilan zəhərinə qarşı təbii peyvənd vardır və zəhər onlara təsir etmir</p>
+    <img class="g" src="zehir.png" alt="">    
+</div>
+
+</body>
+</html>
